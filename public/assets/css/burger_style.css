@@ -88,7 +88,12 @@ ul {
 
 
 .delete {
-    margin: 0 0 10px 10px;
+    background: url(../img/cartoon-toilet.png);
+    background-repeat: no-repeat;
+    width: 53px;
+    height: 60px;
+    background-size: 68px 60px !important;
+    /* padding: 0px; */
 }
 
 .button-flex {
