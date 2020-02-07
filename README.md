@@ -6,7 +6,7 @@ I cover all parts of CRUD in this project as well as an iFrame to provide some e
 
 [Launch App](https://quiet-depths-69089.herokuapp.com/)
 
-![Eat Da Burger App Image](/BT%20Screen%20Shot.png){:target="_blank" rel="noopener"}
+![Eat Da Burger App Image](/BT%20Screen%20Shot.png)
 
 
 ## Using the App
